@@ -1,4 +1,4 @@
 robotbuilder
 ============
 
-Simulator for manipulator robots
+3D Simulator for manipulator robots.
