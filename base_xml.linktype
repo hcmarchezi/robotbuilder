@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<link_type>
+    <name>base1</name> 
+    <slide_type>revolute</slide_type>
+
+    <local_coordinate_system>
+        <cell row="0" column="0">0</cell>
+        <cell row="0" column="1">0</cell>
+        <cell row="0" column="2">1</cell>
+        <cell row="0" column="3">200</cell>
+ 
+        <cell row="1" column="0">0</cell>
+        <cell row="1" column="1">1</cell>
+         <cell row="1" column="2">0</cell>
+         <cell row="1" column="3">-77</cell>
+ 
+        <cell row="2" column="0">-1</cell>
+        <cell row="2" column="1">0</cell>
+         <cell row="2" column="2">0</cell>
+         <cell row="2" column="3">-15</cell>
+ 
+        <cell row="3" column="0">0</cell>
+        <cell row="3" column="1">0</cell>
+         <cell row="3" column="2">0</cell>
+         <cell row="3" column="3">1</cell>
+    </local_coordinate_system>
+
+   <geometry_source>
+        <file>/home/hcmarchezi/Documents/Projects/robotbuilder/robotarm.3ds</file>
+        <object_id>Base</object_id>
+    </geometry_source>
+
+    <denavit_hartemberg_parameters>
+        <link_length>440</link_length>
+        <link_twist>0</link_twist>
+        <link_offset>0</link_offset>
+        <joint_angle>0</joint_angle>
+    </denavit_hartemberg_parameters>
+
+    <link_function>BASE</link_function>
+
+    <movement_restriction>
+        <lowest_movement>-0.75</lowest_movement>
+        <highest_movement>0.75</highest_movement>
+    </movement_restriction>
+
+</link_type>

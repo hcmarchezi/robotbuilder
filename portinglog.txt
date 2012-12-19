@@ -1,0 +1,221 @@
+Log for qt3to4 on Sat Dec 15 17:33:46 2012. Number of log entries: 203
+No changes made to file /home/humberto/Projects/robotbuilder/src/Application.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/AuxTextFile.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/AuxTextFile.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/Face.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Face.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/GLLink.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/GLLink.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/GLObject.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/GLObject.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/GraphicObject.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/GraphicObject.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/HEADERS
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 275: qfiledialog.h -> q3filedialog.h
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 346: qtable.h -> q3table.h
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 14166: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 14198: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 14565: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 15537: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 16561: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/LinkApp.cpp at line 1 column 16597: QMessageBox -> Qt
+No changes made to file /home/humberto/Projects/robotbuilder/src/LinkApp.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/Link.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Link.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/LinkPosition.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/LinkPosition.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/LinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/LinkType.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/maincgt.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Makefile
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentLink.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentLink.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentLinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentLinkType.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentObject.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentObject.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentPrismaticLinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentPrismaticLinkType.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentRevoluteLinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentRevoluteLinkType.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentRobot.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PersistentRobot.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/Point.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Point.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/PrismaticLinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/PrismaticLinkType.h
+In file /home/humberto/Projects/robotbuilder/src/QHSpinBox.cpp at line 3 column 1212: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/QHSpinBox.cpp at line 3 column 1239: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/QHSpinBox.cpp at line 3 column 1419: Fixed -> SetFixedSize
+In file /home/humberto/Projects/robotbuilder/src/QHSpinBox.cpp: Added the following include directives:
+	#include <Q3HBoxLayout> 
+No changes made to file /home/humberto/Projects/robotbuilder/src/QHSpinBox.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/RevoluteLinkType.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/RevoluteLinkType.h
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 294: qtable.h -> q3table.h
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 320: qfiledialog.h -> q3filedialog.h
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 11496: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 11528: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 11886: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 12902: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 13954: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 13990: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 19454: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 19486: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 19710: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 19742: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 19969: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 20001: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 20224: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 20256: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 20476: QMessageBox -> Qt
+In file /home/humberto/Projects/robotbuilder/src/RobotApp.cpp at line 1 column 20508: QMessageBox -> Qt
+No changes made to file /home/humberto/Projects/robotbuilder/src/RobotApp.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/Robot.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Robot.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/RobotPosition.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/RobotPosition.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/SOURCE
+No changes made to file /home/humberto/Projects/robotbuilder/src/Application.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/TrajectoryApp.cpp
+No changes made to file /home/humberto/Projects/robotbuilder/src/Trajectory.cpp
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 12 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 16 column 16: qtable.h -> q3table.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 20 column 20: qwhatsthis.h -> q3whatsthis.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 22 column 21: qfiledialog.h -> q3filedialog.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 29 column 97: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 54 column 32: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 96 column 41: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 100 column 37: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 129 column 38: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.cpp at line 302 column 38: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 11 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 17 column 20: qwhatsthis.h -> q3whatsthis.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 18 column 21: qfiledialog.h -> q3filedialog.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 21 column 99: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 30 column 34: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 49 column 36: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.cpp at line 92 column 38: QFileDialog -> Q3FileDialog
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeView.cpp at line 3 column 983: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeView.cpp at line 3 column 1364: Fixed -> SetFixedSize
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeView.cpp: Added the following include directives:
+	#include <Q3VBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 165: qvbox.h -> q3vbox.h
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 186: qframe.h -> q3frame.h
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 418: QMainWindow -> Q3MainWindow
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 443: WDestructiveClose -> Qt::WDestructiveClose
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 709: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 1013: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 1333: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 1548: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 2074: QVBox -> Q3VBox
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 2092: QVBox -> Q3VBox
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 2131: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp at line 3 column 2153: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WMain.cpp: Added the following include directives:
+	#include <Q3PopupMenu> 
+In file /home/humberto/Projects/robotbuilder/src/WRobotConstruction.cpp at line 3 column 1219: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotConstruction.cpp: Added the following include directives:
+	#include <Q3VBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 11 column 19: qgroupbox.h -> q3groupbox.h
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 15 column 16: qtable.h -> q3table.h
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 19 column 20: qwhatsthis.h -> q3whatsthis.h
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 22 column 91: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 39 column 30: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.cpp at line 43 column 27: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WRobotTrajectory.cpp at line 43 column 39: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotTrajectory.cpp: Added the following include directives:
+	#include <Q3VBoxLayout> 	#include <QFocusEvent> 	#include <QLabel> 
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 15 column 16: qframe.h -> q3frame.h
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 18 column 18: qlistbox.h -> q3listbox.h
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 21 column 20: qwhatsthis.h -> q3whatsthis.h
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 26 column 82: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 32 column 38: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 46 column 36: QListBox -> Q3ListBox
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 50 column 34: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 51 column 44: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp at line 52 column 45: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WSelection.cpp: Added the following include directives:
+	#include <Q3GridLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 12 column 16: qframe.h -> q3frame.h
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 32 column 10: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 32 column 31: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 33 column 33: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 33 column 50: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 75 column 15: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 75 column 51: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 92 column 47: Fixed -> SetFixedSize
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 97 column 15: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 97 column 48: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 105 column 41: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp at line 107 column 38: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.cpp: Added the following include directives:
+	#include <Q3HBoxLayout> 	#include <Q3VBoxLayout> 
+No changes made to file /home/humberto/Projects/robotbuilder/src/TrajectoryApp.h
+No changes made to file /home/humberto/Projects/robotbuilder/src/Trajectory.h
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 19 column 17: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 20 column 17: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 21 column 17: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 23 column 15: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 27 column 12: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 37 column 91: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 44 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 54 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 55 column 10: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h at line 58 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeCreation.h: Added the following include directives:
+	#include <Q3VBoxLayout> 	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 	#include <QLabel> 
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 18 column 17: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 19 column 17: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 20 column 17: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 21 column 15: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 30 column 92: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 33 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h at line 38 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeSelection.h: Added the following include directives:
+	#include <Q3VBoxLayout> 	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeView.h at line 3 column 517: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WLinkTypeView.h: Added the following include directives:
+	#include <Q3VBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 226: qmainwindow.h -> q3mainwindow.h
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 446: QMainWindow -> Q3MainWindow
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 603: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 634: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 666: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.h at line 3 column 703: QPopupMenu -> Q3PopupMenu
+In file /home/humberto/Projects/robotbuilder/src/WMain.h: Added the following include directives:
+	#include <Q3PopupMenu> 
+In file /home/humberto/Projects/robotbuilder/src/WRobotConstruction.h at line 3 column 659: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotConstruction.h: Added the following include directives:
+	#include <Q3VBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 19 column 17: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 20 column 17: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 21 column 17: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 22 column 15: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 26 column 12: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 33 column 88: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 38 column 13: QGroupBox -> Q3GroupBox
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h at line 39 column 10: QTable -> Q3Table
+In file /home/humberto/Projects/robotbuilder/src/WRobotCreation.h: Added the following include directives:
+	#include <Q3VBoxLayout> 	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 	#include <QLabel> 
+In file /home/humberto/Projects/robotbuilder/src/WRobotTrajectory.h at line 40 column 15: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WRobotTrajectory.h: Added the following include directives:
+	#include <QFocusEvent> 	#include <Q3VBoxLayout> 
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 29 column 17: QVBoxLayout -> Q3VBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 30 column 17: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 31 column 17: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 32 column 12: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 35 column 14: QListBox -> Q3ListBox
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 45 column 85: WFlags -> Qt::WFlags
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 51 column 12: QListBox -> Q3ListBox
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 52 column 10: QFrame -> Q3Frame
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h at line 67 column 15: QGridLayout -> Q3GridLayout
+In file /home/humberto/Projects/robotbuilder/src/WSelection.h: Added the following include directives:
+	#include <Q3VBoxLayout> 	#include <Q3Frame> 	#include <Q3GridLayout> 	#include <Q3HBoxLayout> 	#include <QLabel> 
+No changes made to file /home/humberto/Projects/robotbuilder/src/WTrajectory.h
+In file /home/humberto/Projects/robotbuilder/src/WView.h at line 35 column 13: QHBoxLayout -> Q3HBoxLayout
+In file /home/humberto/Projects/robotbuilder/src/WView.h: Added the following include directives:
+	#include <Q3HBoxLayout> 
+In file src.pro: Added entry QT +=  opengl qt3support 
+No changes made to file /home/humberto/Projects/robotbuilder/src/XML_PersistentLinkType.cpp
+

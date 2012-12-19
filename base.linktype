@@ -1,0 +1,16 @@
+NAME = base1
+SLIDE_TYPE = Revolute
+LOCAL_COORDINATE_SYSTEM = 
+0 0 1 200 
+0 1 0 -77 
+-1 0 0 -15 
+0 0 0 1 
+GEOMETRY_SOURCE = /home/hcmarchezi/Documents/Projects/robotbuilder/robotarm.3ds
+3D_OBJECT = Base
+LINK_LENGTH = 440
+LINK_TWIST  = 0
+LINK_OFFSET = 0
+JOINT_ANGLE  =
+LINK_FUNCTION = BASE
+LOWEST_MOVEMENT = -0.75
+HIGHEST_MOVEMENT = 0.75
