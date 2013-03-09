@@ -219,3 +219,5 @@ In file /home/humberto/Projects/robotbuilder/src/WView.h: Added the following in
 In file src.pro: Added entry QT +=  opengl qt3support 
 No changes made to file /home/humberto/Projects/robotbuilder/src/XML_PersistentLinkType.cpp
 
+#### Something else written here by the author
+
